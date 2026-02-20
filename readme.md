@@ -8,8 +8,7 @@ Users can share their live location and see other connected users moving in real
 
 ## 🚀 Live Demo
 
-🔗 https://your-render-url.onrender.com  
-(Replace with your deployed link)
+🔗 https://location-tracker-unhg.onrender.com/
 
 ---
 
