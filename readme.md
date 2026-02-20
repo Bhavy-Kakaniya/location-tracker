@@ -9,8 +9,10 @@ Users can share their live location and see other connected users moving in real
 ## 🚀 Live Demo
 
 🔗 https://location-tracker-unhg.onrender.com/
-Allow the website to access location or it will show blue ocean if you dont want to allow then zoom out your screen
+
 ---
+IMPORTANT!
+Allow the website to access location or it will show blue ocean if you dont want to allow then zoom out your screen
 
 ## 📸 Features
 
