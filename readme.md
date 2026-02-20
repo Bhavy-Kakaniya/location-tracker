@@ -44,6 +44,7 @@ project-root/
 ├── package.json
 └── README.md
 
+
 ---
 
 ## 🧠 How It Works
@@ -58,8 +59,8 @@ project-root/
 ## 🖥 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Bhavy-Kakaniya/location-tracker.git
+cd location-tracker
 npm install
 npm start
 http://localhost:3000
