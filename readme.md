@@ -43,6 +43,7 @@ project-root/
 ├── server.js # Main server file
 ├── package.json
 └── README.md
+
 ---
 
 ## 🧠 How It Works
